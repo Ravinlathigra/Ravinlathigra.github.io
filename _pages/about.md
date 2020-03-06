@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-    image: "/images/about-image.png"
+    image: "/images/western-university.jpg"
 ---
 
 I am a Data Scientist with experience in Life Insurance, Pension Consulting and Machine Learning industries possessing an advanced understanding of data analytics and the ability it has to bring more value to data than ever before.
