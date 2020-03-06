@@ -118,19 +118,19 @@ author:
        #url: mailto:rlathigra@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://Ravinlathigra.github.io"
+       #url: "https://ravinlathigra.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/LathigraRavin"
+       #url: "https://twitter.com/LathigraRavin"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       url: "https://facebook.com/ravin.lathigra"
+       #url: "https://facebook.com/ravin.lathigra"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/Ravinlathigra"
+       #url: "https://github.com/Ravinlathigra"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://instagram.com/Ravinlathigra"
+       #url: "https://instagram.com/Ravinlathigra"
 
 # Site Footer
 footer:
