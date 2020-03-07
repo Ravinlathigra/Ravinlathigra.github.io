@@ -118,7 +118,7 @@ author:
        #url: mailto:rlathigra@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://ravinlathigra.github.io"
+       #url: "https://ravinlathigra.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
        #url: "https://twitter.com/LathigraRavin"
