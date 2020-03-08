@@ -1,7 +1,7 @@
 ---
 title: "About"
 author_profile: true
-layout = home
+layout : home
 header:
     image: "/images/about-pic.jpg"
 permalink: /about/
@@ -13,3 +13,4 @@ I have a strong passion for statistical modelling and a drive to innovate, while
 
 As I develop, I strive to help companies progress further than previously possible; continually seeking ways to promote change while conveying a strong understanding of techniques and applications to individuals of all experience levels. An innate curiosity fuels my ambition to improve and I am excited to see what can be accomplished as new challenges present themselves, requiring creative and efficient solutions.
 
+[See it here :)](https://github.com/Ravinlathigra/Ravinlathigra.github.io/Resume - Ravin Lathigra.pdf)
