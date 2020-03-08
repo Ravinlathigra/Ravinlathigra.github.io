@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: posts
 permalink: /articles/
 title: "Data Science Articles"
 header:
