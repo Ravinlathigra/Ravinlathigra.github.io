@@ -1,7 +1,7 @@
 ---
 title: "Data Science Articles"
 permalink: /articles/
-layout: posts
+layout: tags
 header:
     image: "/images/articles-pic.jpg"
 ---
