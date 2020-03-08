@@ -1,7 +1,9 @@
 ---
 title: "Ravin's Reads"
 permalink: /books/
-layout: archive
+layout: home
 ---
 
 ### Header
+
+test
