@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: single
+layout: home
 author_profile: true
 header:
     image: "/images/about-pic.jpg"
