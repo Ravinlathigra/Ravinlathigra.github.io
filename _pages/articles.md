@@ -6,5 +6,4 @@ header:
     image: "/images/articles-pic.jpg"
 ---
 
-{% include base_path %}
 
