@@ -13,13 +13,4 @@ I have a strong passion for statistical modelling and a drive to innovate, while
 
 As I develop, I strive to help companies progress further than previously possible; continually seeking ways to promote change while conveying a strong understanding of techniques and applications to individuals of all experience levels. An innate curiosity fuels my ambition to improve and I am excited to see what can be accomplished as new challenges present themselves, requiring creative and efficient solutions.
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html lang="en" style="width:100%; height:100%;">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>kekayan's Resume</title>
-</head>
-  <body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url= https://https://github.com/Ravinlathigra/Ravinlathigra.github.io/Resume - Ravin Lathigra.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
-  </body>
-</html>
+[See it here :)](/images/Resume - Ravin Lathigra.pdf)
