@@ -1,6 +1,7 @@
 ---
 title: "About"
 author_profile: true
+layout = home
 header:
     image: "/images/about-pic.jpg"
 permalink: /about/
