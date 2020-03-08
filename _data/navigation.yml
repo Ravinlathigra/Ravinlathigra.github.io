@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "articles"
+  - title: "Articles"
     url: /articles/
+  - title: "Ravin's Reads"
+    url: /books/
   - title: "About"
     url: /about/
   # - title: "About"
