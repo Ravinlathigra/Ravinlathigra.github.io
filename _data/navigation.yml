@@ -2,6 +2,8 @@
 main:
   - title: "Articles"
     url: /articles/
+  - title: "Articles by Tag"
+    url: /articles-by-tag/
   - title: "Ravin's Reads"
     url: /books/
   - title: "About"
